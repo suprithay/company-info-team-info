@@ -1,0 +1,8 @@
+requests
+python-dotenv
+beautifulsoup4
+firecrawl
+python-dotenv
+exa-py
+playwright
+beautifulsoup4
